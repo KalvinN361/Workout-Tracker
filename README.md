@@ -15,7 +15,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
   npm start
   ```
    ## Deployed Link
-  The budget-tracker app is [live on Heroku](https://workout-tracker-weee.herokuapp.com/?id=619e73c32ba2ed00164f66ff)
+  The workout-tracker app is [live on Heroku](https://workout-tracker-weee.herokuapp.com/?id=619e73c32ba2ed00164f66ff)
   
   
   ## License
