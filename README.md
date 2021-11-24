@@ -30,4 +30,4 @@ As a user, I want to be able to view create and track daily workouts. I want to 
   
   
   ## Visual Presentation
-  ![readMe Generator Demo](https://github.com/KalvinN361/Budget-Tracker/blob/c0f2ab3f35e54fc0fb8e745d46574fa1abca8942/demo%20(3).gif) 
+  ![readMe Generator Demo](https://github.com/KalvinN361/Workout-Tracker/blob/8ce2d9d0dc2988899fee26d922f6c7de995643fa/demo%20(4).gif) 
