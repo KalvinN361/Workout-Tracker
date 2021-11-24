@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^4.2.0",
     "mongoose": "^5.13.13",
     "morgan": "^1.10.0"
   },
@@ -24,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/KalvinN361/Workout-Tracker/issues"
   },
-  "homepage": "https://github.com/KalvinN361/Workout-Tracker#readme"
+  "homepage": "https://github.com/KalvinN361/Workout-Tracker#readme",
+  "devDependencies": {}
 }
